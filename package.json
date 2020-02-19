@@ -1,0 +1,23 @@
+{
+  "name": "vts",
+  "version": "0.3.0",
+  "description": "Rebuilding the Vacuum-Tube-Studio concept from the ground up",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fpolar/VTS.git"
+  },
+  "keywords": [
+    "drawing",
+    "game"
+  ],
+  "author": "fpolar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fpolar/VTS/issues"
+  },
+  "homepage": "https://github.com/fpolar/VTS#readme"
+}
